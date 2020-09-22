@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Rock-Papper-Scissors", ".", "{2F944376-AC9A-4519-BF72-B95609C61FDD}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_55839"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\Desktop\Rock-Papper-Scissors\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55839\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_55839"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\Desktop\Rock-Papper-Scissors\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55839\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "55839"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F944376-AC9A-4519-BF72-B95609C61FDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F944376-AC9A-4519-BF72-B95609C61FDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A4564D5-26A2-43D9-8D01-8A687D88ED23}
+	EndGlobalSection
+EndGlobal
